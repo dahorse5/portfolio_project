@@ -12,7 +12,7 @@ body {
 .background-img {
     width: 100vw;
     height: 90vh;
-    background-image: url(/projects/projectName4/images/Path%2015.png);
+    background-image: url(../../../projects/projectName4/images/Path\ 15.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

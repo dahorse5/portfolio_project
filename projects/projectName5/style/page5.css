@@ -27,7 +27,7 @@ body {
   width: 100%;
   height: auto;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 .container .item10 {
   grid-column-start: 3;

@@ -57,11 +57,10 @@
 
 @media (max-width: 768px) {
     .container {
-        width: 100%;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(12, 1fr);
         margin: 0;
-        gap: 10px;
-        grid-template-columns: repeat(2,1fr);
-        padding: 15px;
+        gap: 20px;
     }
     
         .item img {

@@ -61,6 +61,10 @@
     }
 
     @media (max-width: 768px) {
+        body {
+            padding: 20px;
+        }
+        
         .page-item {
         grid-column-start: 1;
         grid-column-end: 3;
@@ -70,12 +74,7 @@
         }
 
         .item10{
-        grid-area: 7/1/10/2;
-        background-color: #8e097c;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+            grid-area: 6/1/9/3;
         }
 
         .item10 p,

@@ -78,7 +78,7 @@ html {
 .container-hero {
     width: 100vw;
     height: 80vh; 
-    background: linear-gradient(to bottom, #1e3c72, #2a5298), url('/images/hero-background.jpg'); 
+    background: linear-gradient(to bottom, #1e3c72, #2a5298); 
     background-size: cover;
     background-position: center;
     color: #fff;

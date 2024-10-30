@@ -14,6 +14,9 @@ body {
     background-image: url(../../../projects/projectName4/images/Path\ 15.png);
     background-size: cover;
     background-position: center bottom;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .upper-container {
